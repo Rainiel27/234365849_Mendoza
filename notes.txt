@@ -1,0 +1,27 @@
+BSCRIPT01.bat
+BSCRIPT02.bat
+BSCRIPT03.bat
+BSCRIPT04.bat
+demofiles
+linux_practice
+notes.txt
+Hello, Linux
+This is a practical exam
+BSCRIPT01.bat
+BSCRIPT02.bat
+BSCRIPT03.bat
+BSCRIPT04.bat
+demofiles
+linux_practice
+notes.txt
+Hello,Linux
+This is a practical exam
+BSCRIPT01.bat
+BSCRIPT02.bat
+BSCRIPT03.bat
+BSCRIPT04.bat
+demofiles
+linux_practice
+notes.txt
+Hello,Linux!
+This is a practical exam.
